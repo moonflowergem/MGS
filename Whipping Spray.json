@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "Chapter 2 - Decensored",
+      "title": "Chapter 2",
       "volume": "01",
       "last_updated": "1730735545",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "Chapter 3 - Decensored",
+      "title": "Chapter 3",
       "volume": "01",
       "last_updated": "1733414012",
       "groups": {
@@ -30,31 +30,32 @@
       }
     },
     "4": {
-      "title": "Epilogue - Decensored",
+      "title": "Epilogue",
       "volume": "01",
       "last_updated": "1735919662",
       "groups": {
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/vj4jnwnw978"
       }
     },
-    "2.5": {
-      "title": "Chapter 2 - Censored",
+
+    "2c": {
+      "title": "Chapter 2 (Censored)",
       "volume": "02",
       "last_updated": "1738770922",
-      "groups": {
-        "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/5xy2nl8n9yl"
-      }
-    },
-    "3.5": {
-      "title": "Chapter 3 - Censored",
-      "volume": "02",
-      "last_updated": "1741362964",
       "groups": {
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/dl7p5z5qjyo"
       }
     },
-    "4.5": {
-      "title": "Epilogue - Censored",
+    "3c": {
+      "title": "Chapter 3 (Censored)",
+      "volume": "02",
+      "last_updated": "1741362964",
+      "groups": {
+        "Placeholder": "link to served image"
+      }
+    },
+    "4c": {
+      "title": "Epilogue (Censored)",
       "volume": "02",
       "last_updated": "1744901807",
       "groups": {
