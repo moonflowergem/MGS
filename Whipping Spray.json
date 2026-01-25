@@ -4,6 +4,8 @@
   "artist": "Ruyoung",
   "author": "Nutty",
   "cover": "https://cdn.imgchest.com/files/de5195f5454b.jpg",
+  "volume": {
+    "Uncensored":{
   "chapters": {
     "1": {
       "title": "Chapter 1",
@@ -36,7 +38,10 @@
       "groups": {
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/vj4jnwnw978"
       }
+    }
+  }
     },
+    "Censored":{
     "2.5": {
       "title": "Chapter 2 - Censored",
       "volume": "02",
