@@ -5,6 +5,14 @@
   "author": "Lee Pan",
   "cover": "https://cdn.imgchest.com/files/866ca52ec9d1.jpg",
   "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "",
+      "last_updated": "1744430400",
+      "groups": {
+        "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/a8466z3rw4x"
+      }
+    },
     "1": {
       "title": "Chapter 1 - Start from here for lightsabers",
       "volume": "",
@@ -91,6 +99,14 @@
       "last_updated": "1744430400",
       "groups": {
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/a8466z3rw4x"
+      }
+    },
+    "100": {
+      "title": "Prologue - Start from here for NO lightsabers",
+      "volume": "",
+      "last_updated": "1721793600",
+      "groups": {
+        "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/n87wq2m337x"
       }
     },
     "101": {
