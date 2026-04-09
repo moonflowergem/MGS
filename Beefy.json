@@ -53,6 +53,14 @@
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/md7odlrk9yp"
       }
     },
+    "7": {
+      "title": "[Censored] Chapter 7",
+      "volume": "",
+      "last_updated": "1775757438",
+      "groups": {
+        "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/ej7mjalpa7d"
+      }
+    },
     "101": {
       "title": "[Decensored] Chapter 1",
       "volume": "",
@@ -101,7 +109,15 @@
         "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/na7k2rlpm78"
       }
     }
-  }
+  },
+  "107": {
+      "title": "[Censored] Chapter 7",
+      "volume": "",
+      "last_updated": "1775757438",
+      "groups": {
+        "Moonflower Gem Scans": "/proxy/api/imgchest/chapter/o24ad289e4l"
+      }
+    }
 
 }
 
